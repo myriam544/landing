@@ -1,0 +1,20 @@
+@import url(banner.css);
+@import url(banner2.css);
+@import url(buttons.css);
+@import url(cards.css);
+@import url(navbar.css);
+
+@import url('https://fonts.googleapis.com/css2?family=Gwendolyn&family=Smooch&display=swap');
+
+body {
+	margin : 0;
+	font-family: 'Gwendolyn', cursive;
+}
+
+h1{ 
+color : red ;
+ }
+
+ .text-center {
+ 	text-align: center;
+ }

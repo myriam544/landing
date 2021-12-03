@@ -1,0 +1,7 @@
+.button {
+	background-color: pink;
+	color: white;
+	border-radius:16px;
+	padding:10px;
+	border: solid 1px pink;
+}
